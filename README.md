@@ -4,6 +4,8 @@
 
 In this section, we are going to apply **cltv prediction** on a specific [retail dataset](https://www.kaggle.com/code/trigenaris/cltv-customer-lifetime-value-prediction/input) and then **functionalize** the whole process.
 
+In the end, the whole process will be functionalized, and a CSV or Excel file will be created if the user requests it.
+
 The calculations and processes are shown below respectively:
 
 * Importing required libraries:
